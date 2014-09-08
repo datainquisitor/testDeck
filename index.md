@@ -2,7 +2,8 @@
 title       : Test the Workflow
 subtitle    : 
 author      : Data Inquisitor
-job         : 
+job         :
+github      : {user: datainquisitor, repo: testDeck, branch: "gh-pages"}
 framework   : bootplus        # {io2012, html5slides, shower, dzslides, ...}
 layout      : post
 mode        : selfcontained

@@ -3,7 +3,7 @@ title       : Test the Workflow
 subtitle    : 
 author      : Data Inquisitor
 job         :
-github      : {user: datainquisitor, repo: test, branch: "gh-pages"}
+github      : {user: datainquisitor, repo: testDeck, branch: "gh-pages"}
 framework   : bootplus        # {io2012, html5slides, shower, dzslides, ...}
 layout      : post
 mode        : selfcontained
